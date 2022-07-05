@@ -47,7 +47,7 @@ service/redisservice created
 
 ## Check replication status
 
-1. ssh into redis-0 pod
+1. ssh into `redis-0 pod
 
 2. Run the following command: 
 
